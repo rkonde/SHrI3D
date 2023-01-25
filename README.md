@@ -6,7 +6,7 @@ This repository contains the official code prepared for the master's diploma the
 
 The SHrI3D model is a PyTorch model, which explores the possibility of using 3D skeleton data as an input to the neural network. The architecture extracts the upper-body 3D skeletal data and predicts hand poses, which are connected to the body skeleton to be used for final prediction. Looking at the model's architecture, starting from the top, the upper-body flow, given a full RGB frame of a video, extracts 3D skeleton joints using a VideoPose3D model. The result is 17 3D points (x,y,z), which represent the whole body skeleton. The skeleton graph is reduced in such a way as to only represent points from the waist up, due to the leg joints being irrelevant to understanding signed words. Moving back to the beginning of the figure, the intermediate points of the VideoPose3D model, are used in the hand cropping pre-processing step, which uses full RGB frames and calculates the square crop based on the hand location. Then the cropped hand frames are used as an input to Visual Encoder, which produces pose and shape embeddings that are used by a Visual Encoder. The visual Encoder, based on the input, produces 3D hand joint points, which are reduced by preserving only the palm, base knuckle and fingertip joint points to reduce noise in the data. Next, the reduced hand points are joined together with 3D skeleton points. The resulting upper-body 3D skeleton is used as an input to the Prediction Module, which performs the final prediction.
 
-<img src="img/architecture_overview.png.png" width = "800">
+<img src="img/architecture_overview.png" width = "800">
 
 This code is inspired by and using code from the following sources:
 - https://github.com/dxli94/WLASL
