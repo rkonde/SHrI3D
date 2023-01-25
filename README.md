@@ -11,7 +11,7 @@ The SHrI3D model is a PyTorch model, which explores the possibility of using 3D 
 Here are some examples of predicted skeletons:
 
 Africa:
-![](https://github.com/rkonde/SHrI3D/blob/main/gif/africa.gif)
+![Africa](https://github.com/rkonde/SHrI3D/blob/main/gif/africa.gif)
 
 Blue:
 ![](https://github.com/rkonde/SHrI3D/blob/main/gif/blue.gif)
