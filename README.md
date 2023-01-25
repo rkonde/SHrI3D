@@ -1,10 +1,10 @@
 # SHrI3D
 
 This code is inspired by and using code from the following sources:
-    - https://github.com/dxli94/WLASL
-    - https://github.com/facebookresearch/VideoPose3D
-    - https://github.com/hassony2/manopth
-    - https://github.com/yongqyu/st-gcn-pytorch
+- https://github.com/dxli94/WLASL
+- https://github.com/facebookresearch/VideoPose3D
+- https://github.com/hassony2/manopth
+- https://github.com/yongqyu/st-gcn-pytorch
 
 
 1. WLASL:
