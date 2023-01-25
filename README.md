@@ -11,22 +11,22 @@ The SHrI3D model is a PyTorch model, which explores the possibility of using 3D 
 Here are some examples of predicted skeletons:
 
 Africa:
-![](https://github.com/rkonde/SHrI3D/gif/africa.gif)
+![](https://github.com/rkonde/SHrI3D/blob/main/gif/africa.gif)
 
 Blue:
-![](https://github.com/rkonde/SHrI3D/gif/blue.gif)
+![](https://github.com/rkonde/SHrI3D/blob/main/gif/blue.gif)
 
 Book:
-![](https://github.com/rkonde/SHrI3D/gif/book.gif)
+![](https://github.com/rkonde/SHrI3D/blob/main/gif/book.gif)
 
 Black:
-![](https://github.com/rkonde/SHrI3D/gif/black.gif)
+![](https://github.com/rkonde/SHrI3D/blob/main/gif/black.gif)
 
 Can:
-![](https://github.com/rkonde/SHrI3D/gif/can.gif)
+![](https://github.com/rkonde/SHrI3D/blob/main/gif/can.gif)
 
 Drink:
-![](https://github.com/rkonde/SHrI3D/gif/drink.gif)
+![](https://github.com/rkonde/SHrI3D/blob/main/gif/drink.gif)
 
 This code is inspired by and using code from the following sources:
 - https://github.com/dxli94/WLASL
