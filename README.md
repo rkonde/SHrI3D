@@ -15,18 +15,23 @@ Africa:
 ![](https://github.com/rkonde/SHrI3D/blob/main/gif/africa.gif)
 
 Blue:
+
 ![](https://github.com/rkonde/SHrI3D/blob/main/gif/blue.gif)
 
 Book:
+
 ![](https://github.com/rkonde/SHrI3D/blob/main/gif/book.gif)
 
 Black:
+
 ![](https://github.com/rkonde/SHrI3D/blob/main/gif/black.gif)
 
 Can:
+
 ![](https://github.com/rkonde/SHrI3D/blob/main/gif/can.gif)
 
 Drink:
+
 ![](https://github.com/rkonde/SHrI3D/blob/main/gif/drink.gif)
 
 This code is inspired by and using code from the following sources:
